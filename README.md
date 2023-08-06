@@ -1,5 +1,9 @@
 # 无感染区模组
 
+## 预览
+
+![Preview](https://gitee.com/floss/InfectionFreeZoneMod/raw/main/Preview.png)
+
 ## 功能
 
 * 修改移动速度
