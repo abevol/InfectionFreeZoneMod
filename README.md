@@ -1,5 +1,9 @@
 # 无感染区模组
 
+## 预览
+
+![Preview](https://github.com/abevol/InfectionFreeZoneMod/blob/main/Preview.png?raw=true)
+
 ## 功能
 
 * 修改移动速度
