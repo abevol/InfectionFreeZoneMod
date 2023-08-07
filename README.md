@@ -2,13 +2,15 @@
 
 ## 预览
 
-![Preview](https://github.com/abevol/InfectionFreeZoneMod/blob/main/Preview.png?raw=true)
+![Preview](https://gitee.com/floss/InfectionFreeZoneMod/raw/main/Preview.png)
 
 ## 功能
 
 * 修改移动速度（通过 Insert键 呼出模组设置菜单进行修改）
 * 修改工作速度（搜寻、采集、建造速度）
 * 任意添加人口
+* 解锁全部建筑
+* 解锁科技研究
 * 游戏存档功能（修复中，暂不推荐使用）
 * 自动搜寻资源（画个饼先，暂不可用）
 * 自动暂停后台游戏
@@ -24,10 +26,11 @@
 ## 热键
 
 * `Insert` 显示模组设置菜单
-* `空格键` 立即查看总部（注意会同时暂停游戏）
+* `H` 立即选择总部
+* `H` 立即查看总部
 * `F1` 循环选择并查看单个小队
 * `Ctrl + F1` 连续选择并查看多个小队
-* `P键` 添加人口
+* `P` 添加人口（上限20）
 
 ## 功能说明
 
@@ -47,7 +50,7 @@
 
 1. 下载 [BepInEx-Unity.Mono-win-x64-6.0.0-be.672](https://builds.bepinex.dev/projects/bepinex_be/672/BepInEx-Unity.Mono-win-x64-6.0.0-be.672%2B472e950.zip)，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹和 `winhttp.dll` 等文件与游戏主程序 `Infection Free Zone Demo.exe` 处在同一目录。
 2. 删除旧版本MOD。检查游戏目录 `Infection Free Zone Demo\BepInEx\plugins`，如果存在旧版本的本MOD，请先手动删除，以免发生版本冲突。
-3. 从 [Releases](https://github.com/abevol/InfectionFreeZoneMod/releases) 下载 InfectionFreeZoneMod 压缩包文件，将所有文件解压至游戏根目录，注意保持文件结构匹配。
+3. 从 [Releases](https://gitee.com/floss/InfectionFreeZoneMod/releases/latest) 下载 InfectionFreeZoneMod 压缩包文件，将所有文件解压至游戏根目录，注意保持文件结构匹配。
 
 ## 其它
 
