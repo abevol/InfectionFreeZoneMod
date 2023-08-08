@@ -16,6 +16,7 @@
 * 自动暂停后台游戏
 * 自动恢复视角
 * 禁止后台移动镜头
+* 修复游戏暂停BUG
 * 立即查看总部
 * 自定义游戏热键
 
@@ -25,11 +26,11 @@
 
 ## 热键
 
-* `Insert` 显示模组设置菜单
+* `F5` 显示模组设置菜单
 * `H` 立即选择总部
-* `H` 立即查看总部
-* `F1` 循环选择并查看单个小队
-* `Ctrl + F1` 连续选择并查看多个小队
+* `F1` 循环选择单个小队
+* `F4` 选择全部小队
+* `Ctrl + F1` 连续选择多个小队
 * `P` 添加人口（上限20）
 
 ## 功能说明
@@ -49,8 +50,7 @@
 ## 安装
 
 1. 下载 [BepInEx-Unity.Mono-win-x64-6.0.0-be.672](https://builds.bepinex.dev/projects/bepinex_be/672/BepInEx-Unity.Mono-win-x64-6.0.0-be.672%2B472e950.zip)，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹和 `winhttp.dll` 等文件与游戏主程序 `Infection Free Zone Demo.exe` 处在同一目录。
-2. 删除旧版本MOD。检查游戏目录 `Infection Free Zone Demo\BepInEx\plugins`，如果存在旧版本的本MOD，请先手动删除，以免发生版本冲突。
-3. 从 [Releases](https://gitee.com/floss/InfectionFreeZoneMod/releases/latest) 下载 InfectionFreeZoneMod 压缩包文件，将所有文件解压至游戏根目录，注意保持文件结构匹配。
+2. 从 [Releases](https://gitee.com/floss/InfectionFreeZoneMod/releases/latest) 下载 InfectionFreeZoneMod 压缩包文件，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹与游戏主程序 `Infection Free Zone Demo.exe` 处在同一目录。
 
 ## 其它
 
@@ -82,3 +82,4 @@
 20. `小键盘减号键` 拉远镜头
 21. `Alt` 越野行驶
 22. `Alt` 强制攻击中立小队
+23. `~` 打开游戏控制台
