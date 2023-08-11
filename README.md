@@ -25,10 +25,13 @@
 * 立即查看总部
 * 自定义游戏热键
 
-## 已知BUG
+## 已知问题
 
-* 游戏存档存在诸多问题，这个不用再反馈了，正在修复中。
-* （更新：游戏存档的问题太多了，暂时不修了，看看官方序章版是什么情况再说）
+1. 插件不能加载，出现红字的问题。可能的原因：
+   * 游戏的完整路径内有中文。
+   * 模组文件放错了位置。
+2. 游戏存档存在诸多问题，这个不用再反馈了，正在修复中。
+  （更新：游戏存档的问题太多了，暂时不修了，看看官方序章版是什么情况再说）
 
 ## 热键
 
@@ -55,8 +58,9 @@
 
 ## 安装
 
-1. 下载 [BepInEx-Unity.Mono-win-x64-6.0.0-be.672](https://builds.bepinex.dev/projects/bepinex_be/672/BepInEx-Unity.Mono-win-x64-6.0.0-be.672%2B472e950.zip)，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹和 `winhttp.dll` 等文件与游戏主程序 `Infection Free Zone Demo.exe` 处在同一目录。
-2. 从 [Releases](https://gitee.com/floss/InfectionFreeZoneMod/releases/latest) 下载 InfectionFreeZoneMod 压缩包文件，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹与游戏主程序 `Infection Free Zone Demo.exe` 处在同一目录。
+1. 注意游戏的完整路径内不能有中文。
+2. 下载 [BepInEx-Unity.Mono-win-x64-6.0.0-be.672](https://builds.bepinex.dev/projects/bepinex_be/672/BepInEx-Unity.Mono-win-x64-6.0.0-be.672%2B472e950.zip)，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹和 `winhttp.dll` 等文件与游戏主程序 `Infection Free Zone Demo.exe` 处在同一目录。
+3. 从 [Releases](https://gitee.com/floss/InfectionFreeZoneMod/releases/latest) 下载 InfectionFreeZoneMod 压缩包文件，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹与游戏主程序 `Infection Free Zone Demo.exe` 处在同一目录。
 
 ## 其它
 
