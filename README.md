@@ -73,7 +73,8 @@
 
 ### 如何突破Demo版8天游玩限制
 
-删除游戏文件：`Infection Free Zone Demo\Infection Free Zone Demo_Data\StreamingAssets\EventsSystem\Events\event_demo_end.json`
+* 方法一：使用模组自带的解除8天试玩限制的功能，无需删除游戏文件。
+* 方法二：删除游戏文件：`Infection Free Zone Demo\Infection Free Zone Demo_Data\StreamingAssets\EventsSystem\Events\event_demo_end.json`
 
 ### 游戏内置热键一览
 
