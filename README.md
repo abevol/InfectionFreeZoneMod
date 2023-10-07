@@ -1,13 +1,16 @@
 # 无感染区模组
 
-作者：青青草原专业抓羊（B站）
-QQ群：426165208
+* 作者：青青草原专业抓羊（B站）
+* QQ频道：[无感染区模组（ifzmod1024）](https://pd.qq.com/s/awxxxjsg2)
 
 ## 免责声明
 
-本模组作者经网友告知，有人借助本模组的功能制作离线地图包卖钱，在此声明本人并不知情，也未参与牟利。
 本模组包括其衍生功能仅供学习交流使用，请勿用于商业用途，由于非法使用而产生的法律纠纷，请自行承担，本人概不负责。
 游戏开发不易，请支持正版游戏！
+
+## 安装
+
+* （推荐）使用带界面的[`无感染区模组安装器.exe`](https://gitee.com/floss/InfectionFreeZoneMod/raw/main/无感染区模组安装器.exe)进行安装，可以避免大部分问题。
 
 ## 预览
 
@@ -88,7 +91,7 @@ QQ群：426165208
   3. 载入完成后，游戏会默认隐藏用户界面并暂停游戏。
   4. 此时按`B键`即可显示用户界面，按`F1键`恢复游戏运行。
 
-## 安装
+## 手动安装
 
 1. 注意游戏的完整路径内不能有中文。
 2. 下载 [BepInEx-Unity.Mono-win-x64-6.0.0-be.672](https://builds.bepinex.dev/projects/bepinex_be/672/BepInEx-Unity.Mono-win-x64-6.0.0-be.672%2B472e950.zip)，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹和 `winhttp.dll` 等文件与游戏主程序 `Infection Free Zone Demo.exe` 处在同一目录。
@@ -96,10 +99,10 @@ QQ群：426165208
 
 ## 其它
 
-### 如何突破Demo版8天游玩限制
+### 如何突破Demo版8天试玩限制
 
-* 方法一：使用模组自带的解除8天试玩限制的功能，无需删除游戏文件。
-* 方法二：删除游戏文件：`Infection Free Zone Demo\Infection Free Zone Demo_Data\StreamingAssets\EventsSystem\Events\event_demo_end.json`
+* 方法一：打上模组后即可自动解除8天试玩限制，无需删除游戏文件。
+* 方法二：找到游戏安装目录，删除游戏文件：`Infection Free Zone Demo\Infection Free Zone Demo_Data\StreamingAssets\EventsSystem\Events\event_demo_end.json`
 
 ### 游戏内置热键一览
 
