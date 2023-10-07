@@ -10,7 +10,7 @@
 
 ## 安装
 
-* （推荐）使用带界面的[`无感染区模组安装器.exe`](https://gitee.com/floss/InfectionFreeZoneMod/raw/main/无感染区模组安装器.exe)进行安装，可以避免大部分问题。
+* （推荐）使用带界面的[【无感染区模组安装器.exe】](https://gitee.com/floss/InfectionFreeZoneMod/raw/main/无感染区模组安装器.exe)进行安装，可以避免大部分问题。
 
 ## 预览
 
