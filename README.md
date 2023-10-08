@@ -8,9 +8,9 @@
 本模组包括其衍生功能仅供学习交流使用，请勿用于商业用途，由于非法使用而产生的法律纠纷，请自行承担，本人概不负责。
 游戏开发不易，请支持正版游戏！
 
-## 安装
+## 如何安装
 
-* （推荐）使用带界面的[【无感染区模组安装器.exe】](https://gitee.com/floss/InfectionFreeZoneMod/raw/main/无感染区模组安装器.exe)进行安装，可以避免大部分问题。
+* （推荐）使用一键安装工具[【无感染区模组安装器】](https://gitee.com/floss/InfectionFreeZoneMod/raw/main/无感染区模组安装器.exe)进行安装，可以避免大部分问题。
 
 ## 预览
 
