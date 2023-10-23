@@ -82,7 +82,7 @@
 * 保存游戏
   * 从游戏内的ESC菜单保存游戏。
   * 已添加游戏保存成功的弹窗提醒。
-  * 游戏存档保存位置：`%LOCALAPPDATA%Low\JutsuGames\Infection Free Zone Demo\Saves`
+  * 游戏存档保存位置：`%LOCALAPPDATA%Low\JutsuGames\Infection Free Zone Prologue\Saves`
   * 可以将游戏存档打包分享给好友哦。
 * 加载游戏
   1. 从游戏大厅的主菜单处加载游戏。
@@ -94,15 +94,14 @@
 ## 手动安装
 
 1. 注意游戏的完整路径内不能有中文。
-2. 下载 [BepInEx-Unity.Mono-win-x64-6.0.0-be.672](https://builds.bepinex.dev/projects/bepinex_be/672/BepInEx-Unity.Mono-win-x64-6.0.0-be.672%2B472e950.zip)，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹和 `winhttp.dll` 等文件与游戏主程序 `Infection Free Zone Demo.exe` 处在同一目录。
-3. 从 [Releases](https://gitee.com/floss/InfectionFreeZoneMod/releases/latest) 下载 InfectionFreeZoneMod 压缩包文件，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹与游戏主程序 `Infection Free Zone Demo.exe` 处在同一目录。
+2. 下载 [BepInEx-Unity.Mono-win-x64-6.0.0-be.672](https://builds.bepinex.dev/projects/bepinex_be/672/BepInEx-Unity.Mono-win-x64-6.0.0-be.672%2B472e950.zip)，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹和 `winhttp.dll` 等文件与游戏主程序 `Infection Free Zone Prologue.exe` 处在同一目录。
+3. 从 [Releases](https://gitee.com/floss/InfectionFreeZoneMod/releases/latest) 下载 InfectionFreeZoneMod 压缩包文件，将所有文件解压至游戏根目录，确保 `BepInEx` 文件夹与游戏主程序 `Infection Free Zone Prologue.exe` 处在同一目录。
 
 ## 其它
 
 ### 如何突破Demo版8天试玩限制
 
-* 方法一：打上模组后即可自动解除8天试玩限制，无需删除游戏文件。
-* 方法二：找到游戏安装目录，删除游戏文件：`Infection Free Zone Demo\Infection Free Zone Demo_Data\StreamingAssets\EventsSystem\Events\event_demo_end.json`
+* 打上模组后即可自动解除8天试玩限制，无需删除游戏文件。
 
 ### 游戏内置热键一览
 
