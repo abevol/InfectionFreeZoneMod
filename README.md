@@ -1,5 +1,7 @@
 # 无感染区模组
 
+已支持无感染区序章版
+
 * 作者：青青草原专业抓羊（B站）
 * QQ频道：[无感染区模组（ifzmod1024）](https://pd.qq.com/s/awxxxjsg2)
 
@@ -10,6 +12,7 @@
 
 ## 如何安装
 
+* 本模组只支持游戏的最新版本，请先从Steam安装最新版本的游戏，目前是《[无感染区：序章](https://store.steampowered.com/app/2485640/Infection_Free_Zone__Prologue/?l=schinese)》版。
 * （推荐）使用一键安装工具[【无感染区模组安装器】](https://gitee.com/floss/InfectionFreeZoneMod/raw/main/无感染区模组安装器.exe)进行安装，可以避免大部分问题。
 
 ## 预览
@@ -18,6 +21,7 @@
 
 ## 功能
 
+* 内置无尽尸潮模组
 * 修改移动速度（通过 F5 键呼出模组设置菜单进行修改）
 * 修改工作速度（搜寻、采集、建造速度）
 * 任意添加人口
